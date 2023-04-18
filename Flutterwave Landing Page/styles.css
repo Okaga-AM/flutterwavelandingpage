@@ -306,3 +306,14 @@ h3{
    }
  
 }
+@media (min-width: 820px) and (max-width: 1080px){
+    .pic1 img{
+        width: 50vw;
+        }
+    .pic2 img{
+        width: 50vw;
+       }
+    
+    
+    
+}    
